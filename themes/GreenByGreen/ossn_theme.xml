@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme xmlns="http://www.opensource-socialnetwork.org/theme/v/3.0">
+    <name>GreenByGreen</name>
+    <id>GreenByGreen</id>
+    <author>~Z~</author>
+    <author_url>http://www.opensource-socialnetwork.org</author_url>	
+    <description>A simple responsive theme optimized for mobile usability</description>
+    <license>Open Source Social Network License (OSSN LICENSE)</license>    
+	<license_url>http://www.opensource-socialnetwork.org/licence</license_url>
+    <version>2.7</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>5.6</version>
+	</requires>
+	<requires>
+		<type>ossn_component</type>
+		<name>TouchScreenCoverImageDragging</name>
+		<version>1.2</version>
+	</requires>	
+	<requires>
+		<type>ossn_component</type>
+		<name>fancybox</name>
+		<comparator>disabled</comparator>
+	</requires>	
+</theme>

@@ -1,0 +1,336 @@
+
+/* const */
+.ossn-red-borders {
+	border: 1px solid #ec2828 !important;
+}
+
+.ossn-chat-windows-long .friends-list-item img {
+    border: 3px solid #ec2828;
+}
+.ossn-required,
+.ossn-chat-icon-offline:before {
+	color: #ec2828;
+}
+.ossn-chat-base .ossn-chat-bar .friends-list-item .ossn-chat-icon-online,
+img.ustatus.ossn-chat-icon-online {
+    border: 3px solid #77d560;
+}
+.ossn-chat-icon-online:before {
+	color: #77d560;
+}
+.friends-list-item .ossn-chat-icon-online {
+	border: 1px solid #77d560 !important;
+}
+
+.ossn-group-profile .profile-header .group-name,
+.ossn-profile .user-fullname {
+	color: #F6F7F8;
+}
+/* front-page */
+.body-background-image {
+	background-image: linear-gradient(161deg, #4DAC71 54%, #3BA666 50%);
+}
+.frontpage-bottom {
+	background-color: #3BA666;
+}
+.green-home-left-contents .description,
+.footer-wrapper footer .ossn-footer-menu a {
+	color: #F4F4F4;
+}
+.footer-wrapper footer .col-md-12 {
+	border-color: #F4F4F4;
+}
+/* topbar */
+.topbar {
+	background-image: linear-gradient(161deg, #4DAC71 54%, #3BA666 50%);
+}
+.topbar,
+.topbar .site-name a,
+.topbar-menu-right li a,
+.topbar-menu-left li a,
+.topbar .ossn-icons-topbar-friends,
+.topbar .ossn-icons-topbar-messages,
+.topbar .ossn-icons-topbar-notification i,
+.topbar .ossn-icons-topbar-friends-new,
+.topbar .ossn-icons-topbar-messages-new,
+.topbar .ossn-icons-topbar-notifications-new i {
+	color: #FFFFFF;
+}
+.topbar-menu-right li:hover,
+.topbar-menu-left li:hover {
+	background-color: #0D6C31;
+}
+/* sidebar */
+.sidebar {
+	background-color: #7A8D81;
+}
+.ossn-search {
+	border-color: #7A8D81;
+}
+.tooltip .tooltip-inner,
+.newseed-uinfo .name a,
+.sidebar-menu-nav li a {
+	color: #FFFFFF;
+}
+.sidebar-menu .menu-content li:hover {
+	background-color: #4DAC71;
+}
+li[class^="menu-section-item-"] {
+	color: #DDDDDD;
+}
+.sidebar-menu-nav ul .sub-menu li:hover,
+.sidebar-menu-nav li .sub-menu li:hover {
+	background-color: #8A9D91;
+}
+.sidebar-menu-nav li,
+.sidebar-menu-nav ul .sub-menu li,
+.sidebar-menu-nav li .sub-menu li {
+	border-bottom-color: #23282E;
+}
+/* page */
+body {
+	background-color: #000000;
+}
+body,
+pre,
+.ap-name,
+.ap-address,
+div.token-input-dropdown ul li,
+div.token-input-dropdown ul li .full_name,
+div.token-input-dropdown ul li p,
+.friend-tab-item .data .message-reciever .text,
+.friend-tab-item .data .message-sender .text,
+.ossn-search input[type="text"],
+.ossn-form input[type="number"],
+.ossn-form input[type="email"],
+.ossn-form input[type="password"],
+.ossn-form text,
+.ossn-form select,
+.ossn-form textarea,
+.ossn-form input[type="text"],
+.comment-box,
+.ossn-notifications-box,
+.ossn-notifications-box .notfi-meta,
+.ossn-notifications-box .type-name,
+.link-preview-item-contents-desc,
+.dropdown-menu>li>a,
+.ossn-topbar-dropdown-menu ul li a,
+.ossn-topbar-dropdown-menu ul li {
+	color: #C0C0C0 !important;
+}
+::-webkit-scrollbar-track {
+	/* background */
+	background-color: #000000;
+}
+::-webkit-scrollbar-thumb {
+	/* glider */
+	background-color: #454545;
+}
+.emojii-container .emojii-list-emoticons,
+.ossn-chat-windows-long .inner,
+.sidebar {
+  scrollbar-color: #454545 #000000 !important;
+}
+/* sections */
+.emojii-container,
+.dropdown-menu,
+.ossn-wall-item,
+.ossn-wall-container,
+.ossn-layout-newsfeed .newsfeed-right,
+.newsfeed-middle-top,
+.ossn-layout-media .content,
+.ossn-page-contents,
+.page-sidebar,
+.ossn-layout-module,
+.ads-inserter-newsfeed,
+.ossn-profile-sidebar {
+	background-color: #1E1E1E;
+}
+/* links */
+.gbg-search-magnifying-glass,
+.user-fullname.user-fullname-without-cover,
+.ossn-group-profile .profile-header .group-name.group-name-without-cover,
+.btn-link,
+a,
+.ossn-ad-item a,
+.link-preview-item-title,
+.time-created,
+footer .ossn-footer-menu a,
+.menu-likes-comments-share li:after,
+.ossn-notifications-box .notfi-meta strong,
+.ossn-notification-messages .user-item .data .name,
+.notification-friends .notfi-meta a {
+	color: #AAAAAA;
+}
+.btn-link:focus,
+.btn-link:hover,
+.ossn-wall-container .wall-tabs .item:hover,
+.ossn-wall-container .controls li:hover,
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover, 
+a:hover {
+	color: #4DAC71;
+}
+.ossn-form input[type="checkbox"]:checked,
+.ossn-form input[type="radio"]:checked {
+	background-color: #4DAC71;
+}
+/* input */
+select:not([class*="ui-datepicker-"]),
+.ossn-chat-icon-smile-set,
+.friend-tab-item .friend-tab input[type="text"],
+.ossn-form input[type="radio"],
+.ossn-form input[type="checkbox"],
+.ossn-form input[type="number"],
+.ossn-form input[type="email"],
+.ossn-form input[type="password"],
+.ossn-form text,
+.ossn-form select,
+.ossn-form textarea,
+.ossn-form input[type="text"],
+.comment-box {
+	background-color: #373737;
+}
+
+.ossn-form input[readonly],
+.ossn-form text[readonly],
+.ossn-form select[readonly],
+.ossn-form textarea[readonly] {
+	background-color: #373737 !important;
+}
+::-webkit-input-placeholder {
+	color:    #C0C0C0;
+	opacity:  .7;
+}
+:-moz-placeholder {
+	color:    #C0C0C0;
+	opacity:  .7;
+}
+::-moz-placeholder {
+	color:    #C0C0C0;
+	opacity:  .7;
+}
+:-ms-input-placeholder {
+	color:    #C0C0C0;
+	opacity:  .7;
+}
+/* widgets */
+.notification-friends li:hover,
+.ossn-group-cover,
+.ossn-profile .top-container .profile-cover,
+.button-grey,
+.btn-action,
+.ap-suggestion:hover,
+.ap-suggestion.ap-cursor,
+.ossn-like-reactions-panel,
+.pagination>li>a:focus,
+.pagination>li>a:hover,
+.pagination>li>span:focus,
+.pagination>li>span:hover,
+.ossn-chat-base .ossn-chat-bar .friends-list-item:hover,
+.friend-tab-item .data .message-reciever .text,
+.friend-tab-item .data .message-sender .text,
+.message-box-recieved,
+.message-box-sent,
+#green-group-header-menu li > a:hover,
+#green-group-header-menu ul li:hover > a,
+#group-header-menu li ul a:hover,
+#group-header-menu li ul li:hover > a,
+#group-header-menu ul li:hover > a,
+.ossn-notification-messages .user-item:hover,
+.ossn-notifications-all li:hover,
+.ossn-notifications-box .bottom-all,
+.profile-edit-layout-title,
+.profile-edit-tabs a:hover,
+.profile-hr-menu ul li a:hover,
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover,
+.ossn-widget .widget-heading,
+.ossn-wall-container .wall-tabs,
+.ossn-wall-container .controls,
+.ossn-wall-item .meta,
+.comments-list,
+.comments-list .comments-item,
+.comment-contents,
+.ossn-layout-module .module-title,
+.ossn-site-pages-title,
+.ossn-message-box .title {
+	background-color: #454545;
+}
+
+.ap-dropdown-menu,
+div.token-input-dropdown,
+.ossn-chat-base .ossn-chat-bar .friends-list,
+.friend-tab-item .tab-container .data,
+#group-header-menu li ul,
+#group-header-menu ul,
+#group-header-menu li a,
+.ossn-group-profile .profile-header .header-bottom,
+.ossn-profile .top-container,
+.ossn-profile-edit-layout,
+.profile-edit-tabs,
+.profile-edit-layout-right,
+.ossn-block-lists,
+.ossn-site-pages-body,
+.ossn-widget .widget-contents,
+.ossn-wall-item .post-contents,
+.ossn-users-list-item,
+.ossn-photos,
+.ossn-photo-viewer,
+.container-table,
+.link-preview-item-inner,
+.ossn-message-box .contents,
+.ossn-message-box .control,
+.green-search-results,
+.ossn-notification-unviewed {
+	background-color: #1E1E1E;
+}
+
+.comments-list .comments-item {
+	border-top: 5px solid #1E1E1E;
+}
+/* misc  */
+.ossn-chat-base .ossn-chat-bar .inner,
+.friend-tab-item .friend-tab,
+.ossn-chat-tab-titles {
+	background-color: #4DAC71;
+}
+.ossn-chat-tab-titles .options,
+.ossn-chat-base .ossn-chat-bar .inner,
+.ossn-chat-inner-text,
+.ossn-chat-tab-titles .text {
+	color: #FFFFFF;
+}
+.ossn-loading:after {
+	border-color: #3BA666 transparent #3BA666 transparent;
+}
+[data-balloon]:after,
+.tooltip > .tooltip-inner,
+.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover {
+	background-color: #7A8D81;
+}
+.tooltip.top .tooltip-arrow { 
+	border-top-color: #7A8D81;
+}
+.tooltip.right .tooltip-arrow {
+	border-right-color: #7A8D81;
+}
+.tooltip.bottom .tooltip-arrow {
+	border-bottom-color: #7A8D81;
+}
+.tooltip.left .tooltip-arrow {
+	border-left-color: #7A8D81;
+}
+
+@media (max-width: 480px) {
+	#green-group-header-menu li > a:hover,
+	#group-header-menu ul li:hover > a {
+			background-color: #1E1E1E !important;
+	}
+}
+
